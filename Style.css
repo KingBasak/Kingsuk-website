@@ -1,0 +1,34 @@
+body {
+  background-image: url(pics/backpic.jpg);
+  background-size: cover;
+}
+.div1 {
+  display: flex;
+  justify-content: center;
+  border-radius: 30px;
+  border: 5px solid #f5deb3;
+  background-color: rgba(255, 250, 241, 0.5);
+}
+.div1 a {
+  text-decoration: none;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 22px;
+  padding: 18px 100px 18px 100px;
+  color: #724500;
+}
+.div1 a:hover {
+  background-color: rgba(225, 156, 99, 0.3);
+  border-radius: 30px;
+}
+
+img,
+iframe {
+  border: 5px solid wheat;
+  width: 920px;
+}
+section {
+  color: white;
+  background-color: rgba(225, 156, 99, 0.3);
+  text-align: center;
+  font-size: 25px;
+}
