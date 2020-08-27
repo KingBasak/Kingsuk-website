@@ -1,3 +1,7 @@
+* {
+  font-family: "Lobster", cursive;
+  font-weight: 10;
+}
 body {
   background-image: url(pics/backpic.jpg);
   background-size: cover;
@@ -11,7 +15,6 @@ body {
 }
 .div1 a {
   text-decoration: none;
-  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 22px;
   padding: 18px 100px 18px 100px;
   color: #724500;

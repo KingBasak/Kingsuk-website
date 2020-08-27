@@ -1,5 +1,13 @@
+* {
+  font-family: "Lobster", cursive;
+  font-weight: 10;
+}
+.change {
+  font-family: "Sriracha", cursive;
+  font-weight: 0;
+  font-size: 20px;
+}
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
   background-image: url(pics/CUbackpic1.jpg);
   backdrop-filter: blur(8px);
   border: 5px solid #f5deb3;
